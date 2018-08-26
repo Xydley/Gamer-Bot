@@ -1,0 +1,13 @@
+{
+  "name": "Gamer Bot",
+  "description": "A bot for our server",
+  "version": "1.0.0",
+  "main": "Bot.js",
+  "sripts": {
+    "start": "node Bot.js"
+   }
+   "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+   }
+}
